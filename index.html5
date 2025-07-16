@@ -1,0 +1,50 @@
+<!-- Product Grid -->
+  <section id="menu" class="p-8 grid grid-cols-1 sm:grid-cols-2 lg:grid-cols-3 gap-6 bg-white">
+
+    <!-- Voltic Water -->
+    <div class="border rounded shadow hover:shadow-lg transition duration-300">
+      <img src="/mnt/data/voltic water.jpg" alt="Voltic Water" class="w-full h-72 object-cover rounded-t" />
+      <div class="p-4">
+        <h3 class="text-xl font-semibold mb-1">Voltic Water (50cl)</h3>
+        <p class="text-gray-700">₵15 / bottle</p>
+      </div>
+    </div>
+
+    <!-- Soft Drinks -->
+    <div class="border rounded shadow hover:shadow-lg transition duration-300">
+      <img src="/mnt/data/drinks.jpg" alt="Soft Drinks" class="w-full h-72 object-cover rounded-t" />
+      <div class="p-4">
+        <h3 class="text-xl font-semibold mb-1">Soft Drinks</h3>
+        <p class="text-gray-700">₵25 / bottle</p>
+      </div>
+    </div>
+
+    <!-- Fried Plantain -->
+    <div class="border rounded shadow hover:shadow-lg transition duration-300">
+      <img src="/mnt/data/Ghanaian-Kelewele-fried-plantains-recipe.jpeg" alt="Fried Plantains" class="w-full h-72 object-cover rounded-t" />
+      <div class="p-4">
+        <h3 class="text-xl font-semibold mb-1">Fried Plantain (Dodo)</h3>
+        <p class="text-gray-700">₵60 / pack</p>
+      </div>
+    </div>
+
+    <!-- Yam Fries with Gizzard & Sausage -->
+    <div class="border rounded shadow hover:shadow-lg transition duration-300">
+      <img src="/mnt/data/3.jpeg" alt="Yam Fries with Gizzard & Sausage" class="w-full h-72 object-cover rounded-t" />
+      <div class="p-4">
+        <h3 class="text-xl font-semibold mb-1">Yam Fries with Gizzard & Sausage</h3>
+        <p class="text-gray-700">₵85 / plate</p>
+      </div>
+    </div>
+
+    <!-- Chicken Wings with Yam Fries -->
+    <div class="border rounded shadow hover:shadow-lg transition duration-300">
+      <img src="/mnt/data/yam chicken.jpg" alt="Yam Fries and Chicken Wings with Sauce" class="w-full h-72 object-cover rounded-t" />
+      <div class="p-4">
+        <h3 class="text-xl font-semibold mb-1">Chicken Wings with Yam Fries & Sauce</h3>
+        <p class="text-gray-700">₵120 / plate</p>
+      </div>
+    </div>
+
+  </section>
+*
